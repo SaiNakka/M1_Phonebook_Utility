@@ -1,4 +1,4 @@
-# Name of the projec
+# Name of the project
 PROJECT_NAME = Phonebook
 
 # Output directory
