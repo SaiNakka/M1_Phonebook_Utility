@@ -1,7 +1,7 @@
 #include <unity.h>
 #include <stddef.h>
 
-#ifdef AV
+#ifdef AVR
 #include <avr/pgmspace.h>
 #else
 #define PROGMEM
