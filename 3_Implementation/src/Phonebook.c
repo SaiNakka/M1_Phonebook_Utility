@@ -2,7 +2,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-struct person
+struct perso
 {
     char name[35];
     char address[50];
